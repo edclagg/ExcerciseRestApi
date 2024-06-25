@@ -1,6 +1,6 @@
 # Spring Boot RESTful Service with OpenAPI Documentation
 
-This is a sample Spring Boot RESTful service demonstrating the use of springdoc-openapi to document APIs using OpenAPI 3. The service provides endpoints to manage users and their associated accounts, showcasing CRUD operations and relational data handling with JPA and H2 database.
+This is a sample Spring Boot RESTful service demonstrating the use of springdoc-openapi to document APIs using Swagger. The service provides endpoints to manage users and their associated accounts, showcasing CRUD operations and relational data handling with JPA and H2 database.
 
 ## Technologies Used
 
